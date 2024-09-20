@@ -1,4 +1,4 @@
-# This is a collection of Chromebook utilities by me, S-PScripts.
+# This is a collection of Chromebook utilities by me, sigma.
 
 ## Check out the website I made for this repo:
 
